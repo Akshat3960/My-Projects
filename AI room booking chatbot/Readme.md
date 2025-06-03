@@ -3,7 +3,7 @@
 This project demonstrates a virtual assistant built using IBM Watson Assistant and integrated with IBM Cloud Functions for automated email notifications. The chatbot is designed to simulate a hotel room booking assistant that can interact with users naturally, provide helpful information, and handle booking requests.
 
 
-## Features
+## Features          
 Conversational Interface: The assistant can handle greetings, booking requests, help messages, and cancellations.
 
 Room Booking: Users can book rooms by providing date, time, and phone number.
@@ -81,3 +81,6 @@ Support multi-language conversation.
 Integrate with real-time room availability databases.
 
 Expand to support multi-room or group bookings.
+
+
+
